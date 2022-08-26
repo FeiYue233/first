@@ -4,3 +4,6 @@ conflict test
 conflict test
 
 make a change on the local repository too
+make a change on the gitee online
+
+changing a same file both local and remote result merging conflicts
