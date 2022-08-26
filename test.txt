@@ -12,3 +12,5 @@ github is not that slow...
 exactly, it is just slow for the first time
 
 github配置了ssh公钥，现在可以使用ssh链接了
+
+pull成功，测试push
