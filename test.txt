@@ -9,3 +9,5 @@ gitee is more faster than github !
 
 
 在gitee配置了ssh公钥，现在可以使用ssh链接了
+
+pull成功，现在测试push
