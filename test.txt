@@ -8,3 +8,5 @@ add a new line on the gitee page online
 gitee is more faster than github !
 
 github is not that slow...
+
+exactly, it is just slow for the first time
