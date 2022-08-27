@@ -13,5 +13,5 @@ gitee is more faster than github !
 pull成功，现在测试push
 
 
-本地库做了很多修改，准备push到远程库，可远程库此时的版本已经比本地库更高了，push会成功吗？
+本地库和远程库做了相同的修改，push会成功吗？
 
