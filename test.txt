@@ -11,3 +11,6 @@ gitee is more faster than github !
 在gitee配置了ssh公钥，现在可以使用ssh链接了
 
 pull成功，现在测试push
+
+
+本地库做了很多修改，准备push到远程库，可远程库此时的版本已经比本地库更高了，push会成功吗？
